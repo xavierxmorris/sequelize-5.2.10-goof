@@ -1,0 +1,1 @@
+# sequelize-5.2.10-goof
