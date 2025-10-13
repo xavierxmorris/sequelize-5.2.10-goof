@@ -43,7 +43,7 @@
     "sequelize-pool": "^1.0.2",
     "toposort-class": "^1.0.1",
     "uuid": "^3.2.1",
-    "validator": "^10.11.0",
+    "validator": "^13.15.15",
     "wkx": "^0.4.6"
   },
   "devDependencies": {
@@ -72,7 +72,7 @@
     "lint-staged": "^8.1.5",
     "mariadb": "^2.0.3",
     "mocha": "^6.0.2",
-    "mysql2": "^1.6.5",
+    "mysql2": "^3.15.2",
     "nyc": "^13.3.0",
     "pg": "^7.8.1",
     "pg-hstore": "^2.x",
@@ -83,7 +83,7 @@
     "sqlite3": "^4.0.6",
     "tedious": "^6.0.0",
     "typescript": "^3.3.3333",
-    "semantic-release": "^15.13.3"
+    "semantic-release": "^24.2.9"
   },
   "keywords": [
     "mysql",
